@@ -1,0 +1,50 @@
+EVERYONE:
+	see list of conferences
+	register/login
+
+AUTHENTICATED:
+	GOD:
+		create a new conference
+		choose program commitette
+	PERSON:
+		choose conferences
+			choose section
+		pay for conference -->depends on choose
+		view my conferences
+	AUTHOR:
+		submit abstract/full per conference
+		pay --> depends on submit
+		upload ppt/pdf  -->depends on accepted paper
+
+		can be session chair
+
+
+	PROGRAM COMMITETTE:
+		register somehow?
+		forced review of few abstract (grade: accept/decline); just one person evaluates one abstract
+		accept/decline to do new reviews  --> depends on forced
+		see list of documents possible to review?
+		do review(5 type of grades)  --> depends on acceptance
+		uploads review results for paper
+			attach a set of recommandation (review was made considering ...)
+		see other results of review --> depends on upload
+
+		can be a session chair
+
+	CONFERENCE CHAIR:
+		change deadlines for conferences
+		see a list of papers ready to be reviewed
+		assign papers for review, for every reviewer
+		request reviewers to come to a common sense for contradictory reviews
+			accept/decline paper --> depends on request
+
+		can be a session chair
+
+	SYSTEM:
+		send mail with accept response for authors (contains reviews)	
+
+*session chair is useless
+
+
+
+==============================
