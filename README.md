@@ -1,3 +1,6 @@
+### Task manager
+---
+We are using [Asana](https://app.asana.com/0/303125811073727). 
 ### Git GUI tools
 ---
   * [GitKraken](https://www.gitkraken.com/)
