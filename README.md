@@ -15,7 +15,7 @@ We are using [Asana](https://app.asana.com/0/303125811073727).
 #### Generate SSH key
   After you download one of the tools mentioned above, you firstly need to generate a local SSH key. This will provide you the rights to download(pull) and upload(push) files on git. 
   ##### Option A
-  Some GUI tools have an in-place mechanism for generating an SSH key. For example, in GitKraken you can generate the key from File->Authentication. Check if your downloaded tool have something like this.
+  Some GUI tools have an in-place mechanism for generating an SSH key. For example, in GitKraken you can generate the key from File->Preferences->Authentication. Check if your downloaded tool have something like this.
   ##### Option B
   It seems like Option A didn't worked for you.
   Now, download a [Git Bash](https://git-scm.com/downloads). After that, follow [the instructions](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) to set you ssh key.
