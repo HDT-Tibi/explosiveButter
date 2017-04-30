@@ -1,0 +1,44 @@
+.navbar {
+	background-color: #545d78;
+}
+
+.navbar .nav > li > a {
+	color: #f1e3dd;
+}
+
+.navbar .navbar-header > a {
+	color: #f1e3dd;
+	font-size: 1.5em;
+}
+
+.navbar .nav > li > a:hover, .navbar .navbar-header > a:hover, .navbar .nav > li > a:visited, .navbar .navbar-header > a:visited {
+	color: #e8d2c9;
+	background-color: #7882a1;
+}
+
+.modal-header {
+	background-color: #545d78;
+	color: #f1e3dd;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+.modal-content  {
+    border-radius: 8px; 
+}
+
+.modal-footer .btn {
+	background-color: #545d78;
+	border-radius: 8px; 
+	color: #e8d2c9;
+}
+
+.modal-footer .btn:hover {
+	background-color: #7882a1;
+}
+
+.close {
+    color: #f1e3dd; 
+    opacity: 1;
+}
+
