@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: back-end
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Tiberiu
+Implementation-Vendor-Id: exposive.butter
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
