@@ -1,0 +1,24 @@
+CREATE TABLE Rol (
+    id_rol INTEGER PRIMARY KEY
+                   UNIQUE
+                   NOT NULL,
+    nume   STRING  NOT NULL
+                   UNIQUE
+);
+
+
+CREATE TABLE User (
+    username STRING  UNIQUE
+                     NOT NULL,
+    nume     STRING,
+    prenume  STRING,
+    id_user  INTEGER PRIMARY KEY
+                     NOT NULL,
+    email    STRING  UNIQUE
+                     NOT NULL,
+    parola   STRING  NOT NULL,
+    telefon  STRING,
+    id_rol   INTEGER REFERENCES Rol (id_rol) ON UPDATE CASCADE
+);
+
+
